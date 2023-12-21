@@ -1,2 +1,8 @@
-2d avec sfml
+rogue-like 2d avec sfml
 avec des guns
+monde magique
+le jeu se passe dans un hotel
+commencer dehors et renter dedans en allant le plus loins possible
+obj-pk recup un ob puissant
+les mecaniques recherche, coffre ,marchands, skills( a la payday),objets
+mettre des difficultées
