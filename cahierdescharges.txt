@@ -1,8 +1,23 @@
-rogue-like 2d avec sfml
-avec des guns
+rogue-like bullet hell 2d avec sfml
+MULTIPLAYER 4personnes max
+avec des guns nombre de balles limite
 monde magique
+un peut comme sur lol un flash
 le jeu se passe dans un hotel
 commencer dehors et renter dedans en allant le plus loins possible
 obj-pk recup un ob puissant
-les mecaniques recherche, coffre ,marchands, skills( a la payday),objets
+les mecaniques recherche, coffre ,marchands, skills(objets)
 mettre des difficultées
+grandes salles/couloir/jardin exterieurs
+ajouter des boss/mobs(loot d'armes)
+boss
+-boss qui se tp
+-boss final lovecraft
+mobs
+-un mage
+
+plusieurs personnage jouable et deblocable de diverse facon
+pra ex healer sage, dueliste jett,
+skills deblocable
+mettre des mecanique de ultim (a la valorant ou lol)
+faire un inventaire
