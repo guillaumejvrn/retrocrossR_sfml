@@ -15,6 +15,15 @@ int main() {
     texte.setFillColor(sf::Color::White);
     texte.setPosition(10, 100);
 
+    sf::Texture texture;
+    if (!texture.loadFromFile("/home/pepito/Bureau/retrocrossR-sfml/test.jpg")) {
+        // Gérer l'erreur de chargement de la texture
+    }
+
+    // Création du sprite avec la texture
+    sf::Sprite sprite(texture);
+    sprite.setPosition(10, 200);
+
     while (fenetre.isOpen()) {
         sf::Event evenement;
         while (fenetre.pollEvent(evenement)) {
@@ -25,6 +34,7 @@ int main() {
 
         fenetre.clear();
         fenetre.draw(texte);  // Dessinez le texte
+        fenetre.draw(sprite);
         fenetre.display();
     }
 
